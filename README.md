@@ -1,3 +1,3 @@
-#Deep Learning with Tensorflow
+# Deep Learning with Tensorflow
 
 * Tensorflow 1.4

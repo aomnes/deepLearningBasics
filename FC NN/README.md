@@ -1,5 +1,5 @@
 
-#MNIST: Digits Recognition
+# MNIST: Digits Recognition
 
 Data set: train.npy, test.npy, valid.npy
 

@@ -1,4 +1,4 @@
-#MNIST
+# MNIST
 
 Data set: train.npy, test.npy, valid.npy
 
@@ -57,7 +57,7 @@ Data set: train.npy, test.npy, valid.npy
 		Feed forward: 1024 units Dropout rate = 0.4
 
 
-#CIFAR-10
+# CIFAR-10
 
 Data set: extra2-test_img.npy, extra2-train.npy, extra2-valid.npy
 
